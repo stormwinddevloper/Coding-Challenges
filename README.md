@@ -1,5 +1,5 @@
 # Coding-Challenges
-All the course files (challenges &amp; solutions) for the Coding Challenges playlist on the Net Ninja YouTube channel.
+All the course files (challenges &amp; solutions) for the Coding Challenges course.
 
 ### How to use the course files
 Each challenge has its own branches in this repository - a starting point branch & a solution branch. For example the first challenge (slide in menu), has 2 branches:
